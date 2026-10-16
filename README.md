@@ -1,4 +1,4 @@
-# 🌌 CHROMA NOCTA v1.4-OPS — Astrophotography Field Station & Ephemeris
+# 🌌 CHROMA NOCTA v1.5-OPS — Astrophotography Field Station & Ephemeris
 
 Chroma Nocta, derin uzay astrofotografisi (DSO), arazi lojistiği ve saha gözlemleri için sıfır cihaz saati sızıntısı ve katı tip güvenliği ile korunan deterministik bir operasyon istasyonudur.
 
